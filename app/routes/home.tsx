@@ -31,7 +31,7 @@ export default function LandingCarros() {
    km: '15,000 km',
    fuel: 'Gasolina',
    gradient: 'from-cyan-500 via-blue-500 to-purple-600',
-   image: '/public/pexels-mark-enkey-2156438346-34643052.jpg'
+   image: '/pexels-mark-enkey-2156438346-34643052.jpg'
   },
   {
    id: 2,
@@ -42,7 +42,7 @@ export default function LandingCarros() {
    km: '22,000 km',
    fuel: 'Híbrido',
    gradient: 'from-pink-500 via-red-500 to-orange-500',
-   image: '/public/pexels-cmrcn-29681419.jpg'
+   image: '/pexels-cmrcn-29681419.jpg'
   },
   {
    id: 3,
@@ -53,7 +53,7 @@ export default function LandingCarros() {
    km: '8,000 km',
    fuel: 'Gasolina',
    gradient: 'from-emerald-500 via-teal-500 to-cyan-600',
-   image: '/public/pexels-saav-495849469-16028417.jpg'
+   image: '/pexels-saav-495849469-16028417.jpg'
   }
  ];
 
@@ -328,7 +328,7 @@ export default function LandingCarros() {
        <div className="relative h-96 rounded-3xl overflow-hidden shadow-2xl">
         <img
          className='w-full h-full object-cover'
-         src="/public/ChatGPT Image 13 nov 2025, 20_51_42.png"
+         src="/ChatGPT Image 13 nov 2025, 20_51_42.png"
          alt="AutoElite"
         />
        </div>
